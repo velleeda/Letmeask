@@ -19,6 +19,10 @@ Projeto criado na trilha de ReactJS durante a [Next Level Week Together](https:/
 
 ![](./src/assets/gifs/darkDefault.gif)
 
+## Site
+
+Pode-se acessar o site pelo link https://letmeask-e27fb.web.app/
+
 # How to run
 
 ```

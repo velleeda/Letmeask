@@ -1,7 +1,6 @@
 # Letmeask
 
-Projeto criado na trilha de ReactJS durante a [Next Level Week Together](https://nextlevelweek.com/), feito pela Rocketseat. Letmeask é perfeito para criadores de conteúdo, pode-se criar salas de Q&A (perguntas e respostas) de forma rápida e organizada.
-<br />
+Project created on the ReactJS trail during [Next Level Week Together](https://nextlevelweek.com/), made by Rocketseat. Letmeask is perfect for content creators, you can create Q&A rooms in a quick and organized way.
 
 # Technologies
 
@@ -18,10 +17,6 @@ Projeto criado na trilha de ReactJS durante a [Next Level Week Together](https:/
 ## Dark mode
 
 ![](./src/assets/gifs/darkDefault.gif)
-
-## Site
-
-Pode-se acessar o site pelo link https://letmeask-e27fb.web.app/
 
 # How to run
 
@@ -41,6 +36,4 @@ $ yarn install
 $ yarn start
 ```
 
-O app estará disponível no seu browser pelo endereço http://localhost:3000.
-
-Será necessário criar uma conta no [Firebase](https://firebase.google.com/) e um projeto para disponibilizar um Realtime Database.
+You will need to create an account on [Firebase](https://firebase.google.com/) and a project to make a Realtime Database available.
